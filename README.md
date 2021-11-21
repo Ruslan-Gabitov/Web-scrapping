@@ -1,0 +1,2 @@
+# Web Scraping
+A program that collects information about the first 20 publications from the site and outputs to the console only those posts in which the keywords you specified are present as part of the online school homework Netology
